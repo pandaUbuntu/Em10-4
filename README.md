@@ -2,3 +2,5 @@
 Short description
 
 New line
+
+My new line
